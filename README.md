@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Matthijs Jonkergouw and I am studying Biomedical Sciences at Radboud University!
 
 <!--
 **MatthijsJonkergouw/MatthijsJonkergouw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
